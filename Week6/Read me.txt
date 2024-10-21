@@ -1,0 +1,3 @@
+Greetings,
+
+In this folder there is the files for assignment 6.
