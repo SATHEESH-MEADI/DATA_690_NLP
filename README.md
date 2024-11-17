@@ -12,8 +12,7 @@
 6. [Future Work](#future-work)  
 7. [Versioning](#versioning)  
 8. [Contributing](#contributing)  
-9. [License](#license)  
-10. [Author](#author)  
+9. [Author](#author)  
 
 ---
 
